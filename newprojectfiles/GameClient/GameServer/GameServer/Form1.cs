@@ -39,26 +39,26 @@ namespace GameServer
             {
                 con.Open();
                 error.Text = "Authenticating...";
-                login.Visible = false;
                 
-                
+
                 string query = "SELECT ID from dbo.Accounts where username='" + t_username.Text + "' and password='" + t_password.Text + "';";
                 SqlCommand queryCommand = new SqlCommand(query, con);
+                string temp="";
                 try
                 {
-                    int temp = int.Parse(queryCommand.ExecuteScalar().ToString());
+                    temp = queryCommand.ExecuteScalar().ToString();
                 }
                 catch
                 {
                     error.Text = "Wrong Credentials!"; ; 
                 }
+                if (temp != "")
+                {
+                    log.accepted = true;
+                    this.Close();
 
-                //if (temp.ToString()!="")
-                //    t_ip.Text = temp.ToString();
-                log.accepted = true;
+                }
                 con.Close();
-                login.Visible = true;
-                //this.Close();
             }
             catch
             {
