@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>BulletPaper_2.png</Source>
+      <Name>BulletPaper_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_game\bin\x86\Debug\Content\BulletPaper_2.xnb</Output>
+      <Time>2012-11-13T14:56:33.6454421+02:00</Time>
+    </Item>
+    <Item>
+      <Source>EnemyPaper-2.png</Source>
+      <Name>EnemyPaper-2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_game\bin\x86\Debug\Content\EnemyPaper-2.xnb</Output>
+      <Time>2012-11-13T14:56:33.6464422+02:00</Time>
+    </Item>
+    <Item>
+      <Source>PlayerPaper.png</Source>
+      <Name>PlayerPaper</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_game\bin\x86\Debug\Content\PlayerPaper.xnb</Output>
+      <Time>2012-11-13T14:56:33.6484423+02:00</Time>
+    </Item>
+    <Item>
+      <Source>origin.png</Source>
+      <Name>origin</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_game\bin\x86\Debug\Content\origin.xnb</Output>
+      <Time>2012-11-13T14:56:33.6534426+02:00</Time>
+    </Item>
+    <Item>
+      <Source>fluffyball.png</Source>
+      <Name>fluffyball</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_game\bin\x86\Debug\Content\fluffyball.xnb</Output>
+      <Time>2012-11-13T14:56:33.6484423+02:00</Time>
+    </Item>
+    <Item>
+      <Source>font1.spritefont</Source>
+      <Name>font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_game\bin\x86\Debug\Content\font1.xnb</Output>
+      <Time>2012-11-13T14:56:33.6494423+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5420D36A-B4D2-40CF-8A9A-A467E251401B}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_gameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\dakmor\Documents\GitHub\mmogameproject\Game\Networked_game\Networked_game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-12-04T20:23:22.4827031+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
