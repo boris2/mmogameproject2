@@ -4,3 +4,9 @@ C:\Users\Adeks\Desktop\game\Farseer Physics Engine\SourceFiles\obj\x86\Debug\Res
 C:\Users\Adeks\Desktop\game\Farseer Physics Engine\SourceFiles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Adeks\Desktop\game\Farseer Physics Engine\SourceFiles\obj\x86\Debug\FarseerPhysics XNA.dll
 C:\Users\Adeks\Desktop\game\Farseer Physics Engine\SourceFiles\obj\x86\Debug\FarseerPhysics XNA.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\Farseer Physics Engine\SourceFiles\bin\x86\Debug\FarseerPhysics XNA.dll
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\Farseer Physics Engine\SourceFiles\bin\x86\Debug\FarseerPhysics XNA.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\Farseer Physics Engine\SourceFiles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\Farseer Physics Engine\SourceFiles\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\Farseer Physics Engine\SourceFiles\obj\x86\Debug\FarseerPhysics XNA.dll
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\Farseer Physics Engine\SourceFiles\obj\x86\Debug\FarseerPhysics XNA.pdb

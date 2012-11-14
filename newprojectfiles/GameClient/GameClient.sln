@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameServerContent", "GameServer\GameServerContent\GameServerContent.contentproj", "{276861E5-3B74-42EC-9BD3-50E7A3D37876}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics XNA", "..\Farseer Physics Engine\SourceFiles\Farseer Physics XNA.csproj", "{0A850700-1ABB-4288-A391-6726B90EBEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameClient", "GameServer\GameServer\GameClient.csproj", "{84CA9B6E-5B40-42F0-9C72-4A16A8F0A5A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{276861E5-3B74-42EC-9BD3-50E7A3D37876}.Debug|x86.ActiveCfg = Debug|x86
+		{276861E5-3B74-42EC-9BD3-50E7A3D37876}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.ActiveCfg = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Debug|x86.Build.0 = Debug|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.ActiveCfg = Release|x86
+		{0A850700-1ABB-4288-A391-6726B90EBEB9}.Release|x86.Build.0 = Release|x86
+		{84CA9B6E-5B40-42F0-9C72-4A16A8F0A5A6}.Debug|x86.ActiveCfg = Debug|x86
+		{84CA9B6E-5B40-42F0-9C72-4A16A8F0A5A6}.Debug|x86.Build.0 = Debug|x86
+		{84CA9B6E-5B40-42F0-9C72-4A16A8F0A5A6}.Release|x86.ActiveCfg = Release|x86
+		{84CA9B6E-5B40-42F0-9C72-4A16A8F0A5A6}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

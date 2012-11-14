@@ -1,0 +1,4 @@
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\GameServerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServerContent\obj\x86\Debug\ResolveAssemblyReference.cache
