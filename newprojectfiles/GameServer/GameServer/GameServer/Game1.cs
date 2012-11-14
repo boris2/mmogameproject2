@@ -31,11 +31,7 @@ namespace GameServer
         private NetServer server;
         //LINGREN CODES END//
         //FARSEER CODES START//
-        World world;
-        Body body1;
-        const float unitToPixel = 100.0f;
-        const float pixelToUnit = 1 / unitToPixel;
-        Texture2D texture;
+
         //FARSEER CODES END//
 
         public Game1()
@@ -73,14 +69,10 @@ namespace GameServer
         {
             // Create a new SpriteBatch, which can be used to draw textures.
             spriteBatch = new SpriteBatch(GraphicsDevice);
+            database db = new database();
 
             //FARSEER CODES START//
-            //Create world with 0 gravity
-            world = new World(Vector2.Zero);
-            Vector2 size = new Vector2(50, 50);
-            body1 = BodyFactory.CreateRectangle(world, size.X * pixelToUnit, size.Y * pixelToUnit, 1);
-            body1.BodyType = BodyType.Dynamic;
-            body1.Position = new Vector2((GraphicsDevice.Viewport.Width / 2.0f) * pixelToUnit, 0);
+
             //FARSEER CODES END//
 
             // TODO: use this.Content to load your game content here
@@ -107,7 +99,7 @@ namespace GameServer
                 this.Exit();
 
             //FARSEER CODES START//
-            world.Step((float)gameTime.ElapsedGameTime.TotalSeconds);
+
             //FARSEER CODES END//
 
             base.Update(gameTime);
@@ -120,12 +112,6 @@ namespace GameServer
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
-
-            spriteBatch.Begin(SpriteSortMode.Immediate, BlendState.Opaque);
-            Vector2 position = body1.Position * unitToPixel;
-            Vector2 scale = new Vector2(100 / (float)texture.Width, 100 / (float)texture.Height);
-            spriteBatch.Draw(texture, position, null, Color.White, body1.Rotation, new Vector2(texture.Width / 2.0f, texture.Height / 2.0f), scale, SpriteEffects.None, 0);
-            spriteBatch.End();
 
             base.Draw(gameTime);
         }

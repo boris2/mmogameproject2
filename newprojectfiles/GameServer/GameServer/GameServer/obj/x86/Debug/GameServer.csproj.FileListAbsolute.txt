@@ -14,3 +14,12 @@ C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\obj\x86\Debug\GameS
 C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.dll
 C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.pdb
 C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.xml
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.dll
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.xml
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\GameServer.exe
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\GameServer.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\GameServer.exe
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\GameServer.pdb

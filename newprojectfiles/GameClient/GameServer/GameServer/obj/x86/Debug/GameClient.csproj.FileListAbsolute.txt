@@ -1,0 +1,24 @@
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\GameClient.exe
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\GameClient.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.dll
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.xml
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\GameServer.Form1.resources
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\GameClient.exe
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\GameServer\GameServer\obj\x86\Debug\GameClient.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\bin\x86\Debug\GameClient.exe
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\bin\x86\Debug\GameClient.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.dll
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.xml
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\obj\x86\Debug\GameServer.Form1.resources
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\obj\x86\Debug\GameClient.exe
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameClient\GameServer\GameServer\obj\x86\Debug\GameClient.pdb
