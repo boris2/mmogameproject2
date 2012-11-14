@@ -1,0 +1,9 @@
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\Login\bin\Debug\Login.exe
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\Login\bin\Debug\Login.pdb
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\Login\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\Login\obj\x86\Debug\Login.Form1.resources
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\Login\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\Login\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\Login\obj\x86\Debug\Login.exe
+C:\Users\dakmor\Documents\GitHub\mmogameproject2\newprojectfiles\GameServer\Login\obj\x86\Debug\Login.pdb
