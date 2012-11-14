@@ -1,0 +1,16 @@
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\GameServer\bin\x86\Debug\GameServer.exe
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\GameServer\bin\x86\Debug\GameServer.pdb
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\GameServer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\GameServer\obj\x86\Debug\GameServer.exe
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\GameServer\obj\x86\Debug\GameServer.pdb
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\GameServer\bin\x86\Debug\Lidgren.Network.dll
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\bin\x86\Debug\GameServer.exe
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\bin\x86\Debug\GameServer.pdb
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\obj\x86\Debug\GameServer.exe
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\obj\x86\Debug\GameServer.pdb
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.dll
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.pdb
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\bin\x86\Debug\FarseerPhysics XNA.xml

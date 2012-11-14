@@ -1,0 +1,2 @@
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServer\GameServerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adeks\Desktop\game\GameServer\GameServer\GameServerContent\obj\x86\Debug\ResolveAssemblyReference.cache

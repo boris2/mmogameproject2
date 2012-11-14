@@ -1,0 +1,11 @@
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\bin\x86\Debug\Content\Crate.xnb
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\bin\x86\Debug\Content\Floor.xnb
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\bin\x86\Debug\Farseer331-Setup.exe
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\bin\x86\Debug\Farseer331-Setup.pdb
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\obj\x86\Debug\Farseer331-Setup.exe
+C:\Users\Adeks\Desktop\farsee\Farseer331-Setup\Farseer331-Setup\Farseer331-Setup\obj\x86\Debug\Farseer331-Setup.pdb
